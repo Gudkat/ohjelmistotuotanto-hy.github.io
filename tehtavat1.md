@@ -687,7 +687,7 @@ Kuten jo aiemmin todettiin, tällä viikolla tehdään palautusta varten **kaksi
 - ensimmäinen (nimeltään ohtuvarasto) tehtäviä 2-13 varten ja
 - toinen tehtäviä 14-17 varten (käytetään tästä nimitystä **palautusrepositorio**)
 
-Repositorioista jäkimmäistä (johon tehtävät 14-17 palautetaan) käytetään myös muiden viikkojen tehtävien palautusrepositoriona.
+Repositorioista jälkimmäistä (johon tehtävät 14-17 palautetaan) käytetään myös muiden viikkojen tehtävien palautusrepositoriona.
 
 Luo siis nyt **uusi repositorio**.
 
